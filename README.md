@@ -1,1 +1,1 @@
-Here you can find my relevant projects from School which helped me gain a lot of knowledge in Data Science field
+Here you can find all my relevant projects from Master studies which helped me gain a lot of knowledge in Data Science field
