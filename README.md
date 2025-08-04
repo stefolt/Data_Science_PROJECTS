@@ -1,0 +1,1 @@
+Here you will find my most natable work from the Data Science MASTER degree. There are lots of algorithms used in various domains and that is exactly what intrigued me to do these projects. I can demonstrate anytime and to anyone that Machine Learning models can be used in almost any field of activity.
